@@ -1,0 +1,1 @@
+This is a text editor created by Nabeel Asghar, coded in Python.
